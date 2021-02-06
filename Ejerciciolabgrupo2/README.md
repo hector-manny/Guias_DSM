@@ -1,4 +1,5 @@
 # Guia de laboratorio 
+#Equipo 2 Problema 4
 
 # la aplicacion es sobre el promedio de un estudiante y si ha reprobado, aprobado y promocionado
 
