@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "318130007017",
+    "firebase_url": "https://petlovesv-ff47f-default-rtdb.firebaseio.com",
+    "project_id": "petlovesv-ff47f",
+    "storage_bucket": "petlovesv-ff47f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318130007017:android:84954009bb992839387978",
+        "android_client_info": {
+          "package_name": "com.hector.guia7"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318130007017-tn1v3qaikdeh1k7cjn1gvb6phe2fuqbn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZLOEiNobDZllGa2fSUioF0ew0Ype0g0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318130007017-tn1v3qaikdeh1k7cjn1gvb6phe2fuqbn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
